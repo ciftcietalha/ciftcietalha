@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ciftcietalha
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Data Science and UI tools   
+- 👀 I’m interested in App Development
+- 🌱 I’m currently focusin Web Development and Backend tools   
 - ⚡ Fun fact: There is no life without coffee
   
